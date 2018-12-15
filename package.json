@@ -1,0 +1,15 @@
+{
+  "name": "serial-port",
+  "version": "1.0.0",
+  "description": "Serial port learning",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Hassaan",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "serialport": "^7.1.0"
+  }
+}
